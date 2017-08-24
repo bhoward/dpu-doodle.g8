@@ -1,4 +1,4 @@
-A [Giter8][g8] template for using Doodle at DePauw!
+A [Giter8][g8] template for using [Doodle][dood] at DePauw!
 
 Template license
 ----------------
@@ -20,3 +20,4 @@ sbt console  # starts a REPL with doodle imported
 ```
 
 [g8]: http://www.foundweekends.org/giter8/
+[dood]: https://github.com/underscoreio/doodle/
